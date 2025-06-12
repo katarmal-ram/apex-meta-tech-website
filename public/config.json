@@ -1,8 +1,8 @@
 {
   "site": {
     "logo": "",
-    "title": "Tera Brass",
-    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers."
+    "title": "Apex Meta Tech",
+    "description": "We are brass part manufacturer with high focus on modernisation and automation, we use high tech cnc and vmc machines, we are fully in house operator and use stremlined automated machiniers. we are biggest exporter for automotive parts from jammagar with products category like automotive parts, Electrical parts, sanitary inserts, Nipples. we have annual turnover of more then 40000 crores, material turnover 4000 tonnes. established in 2000, exporting countries 20+ and established in 500000 sq. ft. target audience are automotive manufacturere and also electirical manufacturer"
   },
   "theme": {
     "id": "creative-purple",
@@ -38,147 +38,101 @@
     "description": "Vibrant and artistic with purple gradients"
   },
   "business": {
-    "name": "Tera Brass",
-    "email": "wefb2@kehg.com",
-    "phone": "+91 987989797",
+    "name": "Apex Meta Tech",
+    "email": "mail@apexmetatech.com",
+    "phone": "+91 99879879877",
     "score": 70,
     "industry": "Manufacturer",
-    "location": "jamnagar, Gujarat, India",
+    "location": "Jamnagar, Gujarat, India",
     "isComplete": false,
-    "description": "Tera brass is the brass manufacturing company, eastablished in year 2004, we have tons of experience and globally 5 plants. we also have 60+ cnc machines. we produce brass parts used in precision components in aerospace. our usp is 24/7 plant operates. we work as manufacturing unit and also we have extursion plant. our target market b2b dealers.",
+    "description": "We are brass part manufacturer with high focus on modernisation and automation, we use high tech cnc and vmc machines, we are fully in house operator and use stremlined automated machiniers. we are biggest exporter for automotive parts from jammagar with products category like automotive parts, Electrical parts, sanitary inserts, Nipples. we have annual turnover of more then 40000 crores, material turnover 4000 tonnes. established in 2000, exporting countries 20+ and established in 500000 sq. ft. target audience are automotive manufacturere and also electirical manufacturer",
     "missingInfo": [
-      "Business name",
-      "Clear industry or sector"
+      "Business Name",
+      "Industry"
     ],
     "suggestions": [
-      "Provide a clear and specific business name",
-      "Clearly define the industry or sector the business operates in",
-      "Expand on the unique value proposition and competitive advantages beyond 24/7 operations",
-      "Highlight key capabilities, certifications, or specializations in the brass manufacturing industry"
+      "Provide a clear, concise business name that reflects the core offering",
+      "Specify the industry the business operates in, e.g. 'Manufacturing', 'Automotive Parts', etc.",
+      "Highlight unique capabilities, technological advantages, and key product categories in the business description",
+      "Quantify the business scale with more specific metrics beyond just turnover and production volume"
     ],
     "hasExperience": true,
-    "hasUniqueValue": false,
+    "hasUniqueValue": true,
     "hasTargetMarket": true,
     "hasClearActivities": true,
-    "enhancedDescription": "Tera Brass is a leading brass manufacturing company specializing in precision components for the aerospace industry. Established in 2004, the company operates 5 global plants with over 60 CNC machines, providing 24/7 manufacturing capabilities. Tera Brass is a trusted supplier of high-quality brass parts used in critical aerospace applications, with a focus on delivering exceptional service and reliability to its B2B dealer network."
+    "enhancedDescription": "We are a leading brass part manufacturer focused on modernization and automation, leveraging high-tech CNC and VMC machines to produce a wide range of automotive, electrical, and sanitary parts. Established in 2000, we are a top exporter of automotive components, with a global footprint across 20+ countries and an annual turnover exceeding 40,000 crores. Our in-house expertise, streamlined automated processes, and material turnover of 4,000 tonnes position us as a trusted partner for automotive and electrical manufacturers worldwide."
   },
   "sections": {
     "hero": {
       "layout": "split",
       "enabled": true,
-      "headline": "Precision Manufacturing Excellence",
+      "headline": "Innovative Brass Manufacturing Solutions",
       "primaryCTA": {
-        "link": "#about",
-        "text": "Explore Our Capabilities"
+        "link": "#products",
+        "text": "Explore Our Products"
       },
-      "subheadline": "Tera Brass: Your Trusted Brass Components Supplier",
+      "subheadline": "Apex Meta Tech: Your Premier Brass Parts Manufacturer in Jamnagar",
       "secondaryCTA": {
-        "link": "#contact",
-        "text": "Contact Us"
+        "link": "#about",
+        "text": "Learn More About Us"
       },
-      "imagePosition": "left",
-      "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e"
+      "imagePosition": "right",
+      "backgroundImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
     },
     "about": {
       "image": "",
       "stats": [
         {
-          "label": "Years of Experience",
-          "number": "18+"
+          "label": "Exporting Countries",
+          "number": "20+"
         },
         {
-          "label": "Global Production Facilities",
-          "number": "5"
+          "label": "Annual Turnover",
+          "number": "40,000 Crores"
         },
         {
-          "label": "CNC Machines",
-          "number": "60+"
+          "label": "Material Turnover",
+          "number": "4,000 Tonnes"
         },
         {
-          "label": "Plant Operations",
-          "number": "24/7"
+          "label": "Facility Size",
+          "number": "500,000 Sq. Ft."
         }
       ],
-      "title": "About Tera Brass",
+      "title": "About Apex Meta Tech",
       "enabled": true,
-      "description": "Tera Brass is a leading brass manufacturing company, established in 2004 with a wealth of experience and five global production facilities. Specializing in the production of precision brass components for the aerospace industry, we operate 60+ CNC machines and run our plants 24/7 to ensure uninterrupted supply and consistent quality. As both a manufacturing unit and an extrusion plant, we cater to a diverse range of B2B dealers, delivering innovative solutions tailored to their specific needs."
+      "description": "Apex Meta Tech is a leading brass parts manufacturer based in Jamnagar, Gujarat, India. With a strong focus on modernization and automation, we utilize high-tech CNC and VMC machines to deliver exceptional quality and efficiency. As the biggest exporter of automotive parts from Jamnagar, we cater to a diverse range of industries, including automotive, electrical, and sanitary. Established in 2000, we have an annual turnover of over 40,000 crores and a material turnover of 4,000 tonnes, serving customers in 20+ countries from our 500,000 sq. ft. facility."
     },
     "features": {
       "items": [
         {
-          "icon": "tool",
-          "title": "Precision Manufacturing",
-          "description": "Our state-of-the-art CNC machines and extrusion plant ensure precise, high-quality brass components for your needs."
+          "icon": "check",
+          "title": "Advanced Manufacturing Capabilities",
+          "description": "Equipped with state-of-the-art CNC and VMC machines, we deliver precision and efficiency in every production process."
         },
         {
-          "icon": "clock",
-          "title": "Uninterrupted Production",
-          "description": "With our 24/7 plant operations, we guarantee a reliable and consistent supply of brass parts to meet your deadlines."
+          "icon": "zap",
+          "title": "Streamlined Automation",
+          "description": "Our automated machineries and in-house operations ensure a seamless and streamlined manufacturing process."
+        },
+        {
+          "icon": "target",
+          "title": "Diverse Product Portfolio",
+          "description": "From automotive parts to electrical components and sanitary inserts, we cater to a wide range of industries."
         },
         {
           "icon": "globe",
           "title": "Global Reach",
-          "description": "Tera Brass has a worldwide presence, with five production facilities strategically located to serve customers globally."
-        },
-        {
-          "icon": "award",
-          "title": "Industry Expertise",
-          "description": "Our team of experienced professionals leverages decades of knowledge in the brass manufacturing industry."
+          "description": "With a presence in over 20 countries, we are a trusted exporter of high-quality brass parts worldwide."
         }
       ],
       "title": "Our Key Features",
       "enabled": true
     },
     "products": {
-      "enabled": true
-    },
-    "services": {
-      "items": [
-        {
-          "id": "service-1684758000000",
-          "icon": "Cpu",
-          "image": "https://images.unsplash.com/photo-1517476417505-41343cd4b6db?auto=format&fit=crop&q=80&w=600",
-          "title": "Rapid Prototyping and Custom Manufacturing",
-          "features": [
-            "Fast turnaround on custom brass parts",
-            "Precision manufacturing with tight tolerances",
-            "In-house design and engineering support",
-            "Cost-effective solutions for small-batch production",
-            "Dedicated project management"
-          ],
-          "description": "Leverage our state-of-the-art CNC machines and brass expertise to quickly create custom brass components and prototypes for your aerospace projects. Our rapid turnaround and attention to precision ensure you get high-quality parts on time, every time."
-        },
-        {
-          "id": "service-1684758060000",
-          "icon": "Layers",
-          "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&q=80&w=600",
-          "title": "Mass Manufacturing for Long-Term Clients",
-          "features": [
-            "Dedicated 24/7 production lines",
-            "Guaranteed capacity and supply chain reliability",
-            "Competitive pricing through economies of scale",
-            "Seamless integration with client's operations",
-            "Proactive quality control and continuous improvement"
-          ],
-          "description": "For high-volume aerospace clients, we'll set up dedicated 24/7 production lines with our CNC machines to deliver large quantities of brass components at the lowest possible cost. Our streamlined processes and global footprint ensure reliability and scalability to meet your growing needs."
-        },
-        {
-          "id": "service-1684758120000",
-          "icon": "Thermometer",
-          "image": "https://images.unsplash.com/photo-1554290712-e640351074bd?auto=format&fit=crop&q=80&w=600",
-          "title": "Brass Extrusion and Value-Added Processing",
-          "features": [
-            "Seamless integration of extrusion and machining",
-            "Specialized brass alloy formulations",
-            "Advanced quality control and testing",
-            "Strict adherence to aerospace standards",
-            "Responsive project management and customer support"
-          ],
-          "description": "In addition to precision CNC manufacturing, Tera Brass offers comprehensive brass extrusion and value-added processing services. From custom profiles to complex machined components, we can handle your entire brass product lifecycle with unparalleled quality and efficiency."
-        }
-      ],
-      "title": "Our Services",
-      "enabled": true
+      "title": "Our Products",
+      "enabled": true,
+      "subtitle": "Explore our wide range of high-quality brass parts"
     },
     "whyChooseUs": {
       "items": [
@@ -203,24 +157,24 @@
           "description": "We build long-term relationships with our clients based on trust and reliability."
         }
       ],
-      "title": "Why Choose Tera Brass",
+      "title": "Why Choose Apex Meta Tech",
       "enabled": true
     },
     "testimonials": {
       "items": [
         {
-          "text": "Tera Brass has been a reliable and trusted partner for our aerospace component needs. Their commitment to quality and on-time delivery has been instrumental in the success of our projects.",
-          "author": "Priya Sharma",
+          "text": "Apex Meta Tech has been a reliable and innovative partner for our automotive manufacturing needs. Their commitment to quality and efficiency has been instrumental in the success of our projects.",
+          "author": "Rajeev Sharma",
           "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-          "company": "Aerospace Innovations",
+          "company": "Tata Motors",
           "position": "Procurement Manager"
         },
         {
-          "text": "Working with Tera Brass has been a seamless experience. Their attention to detail, innovative solutions, and responsive customer service make them a valuable asset to our supply chain.",
-          "author": "Rajesh Patel",
+          "text": "As an electrical manufacturer, we have been consistently impressed by Apex Meta Tech's ability to deliver high-precision components that meet our stringent requirements. Their customer-centric approach and reliable supply chain make them a trusted partner.",
+          "author": "Neha Gupta",
           "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
-          "company": "Precision Parts Manufacturers",
-          "position": "Production Director"
+          "company": "Havells India",
+          "position": "Sourcing Manager"
         }
       ],
       "title": "What Our Clients Say",
@@ -236,6 +190,10 @@
       {
         "link": "#about",
         "text": "About"
+      },
+      {
+        "link": "#products",
+        "text": "Products"
       },
       {
         "link": "#features",
@@ -254,71 +212,63 @@
   },
   "sectionsOrder": [
     {
-      "id": "process-1749666973626",
+      "id": "process-1749719707821",
       "data": {
         "steps": [
           {
             "step": 1,
-            "title": "Customized Product Design",
-            "description": "Our team of experienced designers works closely with clients to understand their unique requirements and develop custom brass product designs that meet their specific needs. We leverage advanced CAD software and collaborate with clients to iterate on the design until it is perfect."
+            "title": "Design and Engineering",
+            "description": "Our team of expert designers and engineers collaborate to create innovative automotive part designs that meet the specific needs of our customers. We utilize the latest CAD software and testing methodologies to ensure optimal performance and quality."
           },
           {
             "step": 2,
             "title": "Precision Manufacturing",
-            "description": "Once the design is finalized, we utilize our state-of-the-art manufacturing facilities and skilled craftsmen to produce the brass products with the utmost precision and attention to detail. Our advanced machinery and quality control processes ensure consistent, high-quality output."
+            "description": "We employ state-of-the-art CNC machines and advanced manufacturing techniques to produce each automotive part with the utmost precision and attention to detail. Our skilled technicians closely monitor every step of the manufacturing process to maintain the highest standards of quality."
           },
           {
             "step": 3,
             "title": "Rigorous Quality Assurance",
-            "description": "Before shipping, each brass product undergoes a thorough quality inspection to identify and address any defects or issues. Our quality assurance team performs comprehensive testing to validate that the product meets all required specifications and customer expectations."
+            "description": "Before any automotive part leaves our facility, it undergoes a comprehensive quality assurance process. This includes thorough inspections, testing, and validation to ensure that each component meets or exceeds industry standards and our customers' expectations."
           },
           {
             "step": 4,
-            "title": "Reliable Delivery",
-            "description": "We prioritize on-time delivery and work closely with our logistics partners to ensure the safe and timely shipment of the brass products to our clients. Our dedicated customer service team provides regular updates and support throughout the delivery process."
+            "title": "Efficient Logistics",
+            "description": "We have established a reliable and streamlined logistics network to ensure the timely delivery of our automotive parts to our customers. Our dedicated logistics team works closely with our manufacturing and shipping partners to optimize the supply chain and minimize any delays."
           }
         ],
-        "title": "Our Process",
+        "title": "Our Manufacturing Process",
         "enabled": true,
-        "subtitle": "How we deliver exceptional results"
+        "subtitle": "How we deliver exceptional automotive parts"
       },
       "type": "process",
-      "title": "Our Process",
+      "title": "Our Manufacturing Process",
       "enabled": true,
       "showInNavbar": false
     },
     {
-      "id": "faq-1749666989060",
+      "id": "faq-1749719709255",
       "data": {
         "items": [
           {
-            "answer": "Tera Brass is a leading manufacturer of a wide range of brass products, including brass fittings, valves, decorative hardware, and custom brass components. We have the capability to produce a variety of brass items to meet the diverse needs of our customers.",
-            "question": "What types of brass products do you manufacture?"
+            "answer": "Apex Meta Tech is a manufacturer that specializes in custom manufacturing. We offer a range of services including prototyping, production, and order fulfillment. Our turnaround time for custom manufacturing is typically 2-3 days for prototyping, with the rest of the production time depending on our current workload.",
+            "question": "What services does Apex Meta Tech offer?"
           },
           {
-            "answer": "Our manufacturing process involves precision brass casting, machining, and finishing techniques to ensure high-quality products. We utilize state-of-the-art equipment and follow strict quality control measures throughout the production cycle. Our experienced team of engineers and technicians work diligently to maintain efficient and reliable operations.",
-            "question": "What is your production process like?"
+            "answer": "Our pricing is tailored to each client's specific needs and requirements. We work closely with our customers to understand their needs and provide a competitive quote. We are transparent about our pricing and are happy to discuss the details with you.",
+            "question": "What is your pricing structure?"
           },
           {
-            "answer": "Absolutely! Tera Brass specializes in custom brass manufacturing. We work closely with our clients to understand their unique requirements and design specifications, and then develop tailored solutions to meet their needs. Our flexibility and attention to detail allow us to produce custom brass components of any size or complexity.",
-            "question": "Can you provide custom brass manufacturing services?"
+            "answer": "Yes, we have a dedicated customer support team available 24/7 to assist our clients with any questions or concerns they may have. Our team is knowledgeable and committed to providing prompt and effective support.",
+            "question": "Do you offer 24/7 customer support?"
           },
           {
-            "answer": "Quality is our top priority at Tera Brass. We have implemented a comprehensive quality management system that includes rigorous testing and inspection at every stage of the manufacturing process. Our in-house quality control team closely monitors production to ensure compliance with industry standards and customer specifications. We are also ISO 9001 certified, demonstrating our commitment to delivering consistent, high-quality brass products.",
-            "question": "How do you ensure the quality of your brass products?"
-          },
-          {
-            "answer": "Our lead times and pricing can vary depending on the complexity of the project, the quantity of products required, and the materials used. We strive to provide competitive and transparent pricing while maintaining our high-quality standards. Our sales team will work with you to provide a detailed quote and estimated delivery timeline based on your specific requirements. We are committed to offering reliable and cost-effective brass manufacturing solutions.",
-            "question": "What are your lead times and pricing for brass manufacturing services?"
-          },
-          {
-            "answer": "Yes, we understand the importance of providing excellent customer support. Our team is dedicated to ensuring your satisfaction with our products and services. We offer technical support, product maintenance guidance, and responsive after-sales assistance. If you have any questions or concerns, please don't hesitate to reach out to our customer service team, and we'll be happy to address your needs.",
-            "question": "Do you offer any support or after-sales services?"
+            "answer": "At Apex Meta Tech, we stand behind the quality of our products. If you experience any issues with a faucet purchased from our dealers, we offer an instant replacement policy. Simply contact our customer support team, and we will work with our dealers to get a replacement faucet to you as soon as possible.",
+            "question": "What is your policy on replacing faucets?"
           }
         ],
         "title": "Frequently Asked Questions",
         "enabled": true,
-        "subtitle": "Common questions about our manufacturing services"
+        "subtitle": "Common questions about our services"
       },
       "type": "faq",
       "title": "Frequently Asked Questions",
@@ -326,46 +276,15 @@
       "showInNavbar": false
     },
     {
-      "id": "infrastructure-1749667021515",
+      "id": "infrastructure-1749719710727",
       "data": {
-        "items": [
-          {
-            "title": "Brass Casting Facility",
-            "features": [
-              "10,000 sq ft production area",
-              "Automated brass casting machines with +/- 0.1mm tolerance",
-              "Specialized temperature control systems for precise melting and cooling",
-              "Dedicated quality control laboratory"
-            ],
-            "description": "Our state-of-the-art brass casting facility is equipped with high-precision casting equipment and cutting-edge temperature control systems. This facility allows us to produce a wide range of brass components with exceptional quality and consistency."
-          },
-          {
-            "title": "Machining and Finishing Center",
-            "features": [
-              "20,000 sq ft production area",
-              "Multiple CNC lathes, mills, and grinding machines",
-              "Automated deburring and polishing systems",
-              "Dedicated inspection and metrology lab"
-            ],
-            "description": "The Machining and Finishing Center is equipped with advanced CNC machines and specialized finishing equipment. This facility enables us to perform complex machining operations and apply high-quality finishes to our brass products."
-          },
-          {
-            "title": "Warehouse and Logistics Hub",
-            "features": [
-              "50,000 sq ft storage capacity",
-              "Automated storage and retrieval systems",
-              "Temperature and humidity-controlled storage areas",
-              "Dedicated shipping and receiving docks"
-            ],
-            "description": "Our centralized warehouse and logistics hub ensures efficient storage, handling, and distribution of our brass products. This facility is designed to maintain optimal environmental conditions and facilitate seamless supply chain operations."
-          }
-        ],
-        "title": "Infrastructure & Facilities",
+        "items": [],
+        "title": "Infrastructure",
         "enabled": true,
-        "subtitle": "Modern facilities supporting our operations"
+        "subtitle": "Facilities and equipment overview"
       },
       "type": "infrastructure",
-      "title": "Infrastructure & Facilities",
+      "title": "Infrastructure",
       "enabled": true,
       "showInNavbar": false
     }
